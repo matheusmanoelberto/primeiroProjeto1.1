@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MATEUS\\source\\repos\\primeiroProjeto1.1\\primeiroProjeto1.1\\primeiroProjeto1.1.csproj": {}
+    "C:\\Users\\t-matheus.berto\\Documents\\GitHub\\primeiroProjeto1.1\\primeiroProjeto1.1\\primeiroProjeto1.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MATEUS\\source\\repos\\primeiroProjeto1.1\\primeiroProjeto1.1\\primeiroProjeto1.1.csproj": {
+    "C:\\Users\\t-matheus.berto\\Documents\\GitHub\\primeiroProjeto1.1\\primeiroProjeto1.1\\primeiroProjeto1.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MATEUS\\source\\repos\\primeiroProjeto1.1\\primeiroProjeto1.1\\primeiroProjeto1.1.csproj",
+        "projectUniqueName": "C:\\Users\\t-matheus.berto\\Documents\\GitHub\\primeiroProjeto1.1\\primeiroProjeto1.1\\primeiroProjeto1.1.csproj",
         "projectName": "primeiroProjeto1.1",
-        "projectPath": "C:\\Users\\MATEUS\\source\\repos\\primeiroProjeto1.1\\primeiroProjeto1.1\\primeiroProjeto1.1.csproj",
-        "packagesPath": "C:\\Users\\MATEUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MATEUS\\source\\repos\\primeiroProjeto1.1\\primeiroProjeto1.1\\obj\\",
+        "projectPath": "C:\\Users\\t-matheus.berto\\Documents\\GitHub\\primeiroProjeto1.1\\primeiroProjeto1.1\\primeiroProjeto1.1.csproj",
+        "packagesPath": "C:\\Users\\t-matheus.berto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\t-matheus.berto\\Documents\\GitHub\\primeiroProjeto1.1\\primeiroProjeto1.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MATEUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\t-matheus.berto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

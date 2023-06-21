@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MATEUS\\source\\repos\\primeiroProjeto1.1\\primeiroProjeto1.1\\primeiroProjeto1.1.csproj": {}
+    "C:\\Users\\MATEUS\\source\\repos\\primeiroProjeto1.1\\exListaNumeros\\exListaNumeros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MATEUS\\source\\repos\\primeiroProjeto1.1\\primeiroProjeto1.1\\primeiroProjeto1.1.csproj": {
+    "C:\\Users\\MATEUS\\source\\repos\\primeiroProjeto1.1\\exListaNumeros\\exListaNumeros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MATEUS\\source\\repos\\primeiroProjeto1.1\\primeiroProjeto1.1\\primeiroProjeto1.1.csproj",
-        "projectName": "primeiroProjeto1.1",
-        "projectPath": "C:\\Users\\MATEUS\\source\\repos\\primeiroProjeto1.1\\primeiroProjeto1.1\\primeiroProjeto1.1.csproj",
+        "projectUniqueName": "C:\\Users\\MATEUS\\source\\repos\\primeiroProjeto1.1\\exListaNumeros\\exListaNumeros.csproj",
+        "projectName": "exListaNumeros",
+        "projectPath": "C:\\Users\\MATEUS\\source\\repos\\primeiroProjeto1.1\\exListaNumeros\\exListaNumeros.csproj",
         "packagesPath": "C:\\Users\\MATEUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MATEUS\\source\\repos\\primeiroProjeto1.1\\primeiroProjeto1.1\\obj\\",
+        "outputPath": "C:\\Users\\MATEUS\\source\\repos\\primeiroProjeto1.1\\exListaNumeros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MATEUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

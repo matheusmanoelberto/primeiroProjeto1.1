@@ -1,0 +1,15 @@
+C:\Users\MATEUS\source\repos\primeiroProjeto1.1\exListaNumeros\bin\Debug\net6.0\exListaNumeros.exe
+C:\Users\MATEUS\source\repos\primeiroProjeto1.1\exListaNumeros\bin\Debug\net6.0\exListaNumeros.deps.json
+C:\Users\MATEUS\source\repos\primeiroProjeto1.1\exListaNumeros\bin\Debug\net6.0\exListaNumeros.runtimeconfig.json
+C:\Users\MATEUS\source\repos\primeiroProjeto1.1\exListaNumeros\bin\Debug\net6.0\exListaNumeros.dll
+C:\Users\MATEUS\source\repos\primeiroProjeto1.1\exListaNumeros\bin\Debug\net6.0\exListaNumeros.pdb
+C:\Users\MATEUS\source\repos\primeiroProjeto1.1\exListaNumeros\obj\Debug\net6.0\exListaNumeros.csproj.AssemblyReference.cache
+C:\Users\MATEUS\source\repos\primeiroProjeto1.1\exListaNumeros\obj\Debug\net6.0\exListaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MATEUS\source\repos\primeiroProjeto1.1\exListaNumeros\obj\Debug\net6.0\exListaNumeros.AssemblyInfoInputs.cache
+C:\Users\MATEUS\source\repos\primeiroProjeto1.1\exListaNumeros\obj\Debug\net6.0\exListaNumeros.AssemblyInfo.cs
+C:\Users\MATEUS\source\repos\primeiroProjeto1.1\exListaNumeros\obj\Debug\net6.0\exListaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\MATEUS\source\repos\primeiroProjeto1.1\exListaNumeros\obj\Debug\net6.0\exListaNumeros.dll
+C:\Users\MATEUS\source\repos\primeiroProjeto1.1\exListaNumeros\obj\Debug\net6.0\refint\exListaNumeros.dll
+C:\Users\MATEUS\source\repos\primeiroProjeto1.1\exListaNumeros\obj\Debug\net6.0\exListaNumeros.pdb
+C:\Users\MATEUS\source\repos\primeiroProjeto1.1\exListaNumeros\obj\Debug\net6.0\exListaNumeros.genruntimeconfig.cache
+C:\Users\MATEUS\source\repos\primeiroProjeto1.1\exListaNumeros\obj\Debug\net6.0\ref\exListaNumeros.dll
